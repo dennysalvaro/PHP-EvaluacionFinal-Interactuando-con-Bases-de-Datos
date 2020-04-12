@@ -1,0 +1,9 @@
+Acceso al sistema web:
+usuario: dennysalvaro01@gmail.com
+clave: 12345
+
+MySQL esta sin clave:
+Servidor: "localhost" 
+Usuario: "root"  
+Clave: "" 
+DB: "dennys_nextu"
